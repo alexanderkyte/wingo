@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/BurntSushi/wingo/commands"
-	"github.com/BurntSushi/wingo/wm"
+	"github.com/alexanderkyte/wingo/commands"
+	"github.com/alexanderkyte/wingo/wm"
 )
 
 func newHacks() wm.CommandHacks {

@@ -17,12 +17,12 @@ import (
 	"github.com/BurntSushi/xgbutil/xprop"
 	"github.com/BurntSushi/xgbutil/xrect"
 
-	"github.com/BurntSushi/wingo/focus"
-	"github.com/BurntSushi/wingo/logger"
-	"github.com/BurntSushi/wingo/misc"
-	"github.com/BurntSushi/wingo/wm"
-	"github.com/BurntSushi/wingo/workspace"
-	"github.com/BurntSushi/wingo/xclient"
+	"github.com/alexanderkyte/wingo/focus"
+	"github.com/alexanderkyte/wingo/logger"
+	"github.com/alexanderkyte/wingo/misc"
+	"github.com/alexanderkyte/wingo/wm"
+	"github.com/alexanderkyte/wingo/workspace"
+	"github.com/alexanderkyte/wingo/xclient"
 )
 
 // Env declares all available commands. Any command not in

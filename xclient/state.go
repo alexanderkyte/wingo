@@ -3,8 +3,8 @@ package xclient
 import (
 	"github.com/BurntSushi/xgbutil/xrect"
 
-	"github.com/BurntSushi/wingo/frame"
-	"github.com/BurntSushi/wingo/heads"
+	"github.com/alexanderkyte/wingo/frame"
+	"github.com/alexanderkyte/wingo/heads"
 )
 
 func (c *Client) newClientStates() map[string]clientState {

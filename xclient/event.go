@@ -8,11 +8,11 @@ import (
 	"github.com/BurntSushi/xgbutil/xevent"
 	"github.com/BurntSushi/xgbutil/xprop"
 
-	"github.com/BurntSushi/wingo/focus"
-	"github.com/BurntSushi/wingo/frame"
-	"github.com/BurntSushi/wingo/layout"
-	"github.com/BurntSushi/wingo/logger"
-	"github.com/BurntSushi/wingo/wm"
+	"github.com/alexanderkyte/wingo/focus"
+	"github.com/alexanderkyte/wingo/frame"
+	"github.com/alexanderkyte/wingo/layout"
+	"github.com/alexanderkyte/wingo/logger"
+	"github.com/alexanderkyte/wingo/wm"
 )
 
 func (c *Client) attachEventCallbacks() {
